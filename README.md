@@ -1,0 +1,2 @@
+# CZARBOT
+discord bot
