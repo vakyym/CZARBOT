@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace CZARBOT
 {
@@ -7,7 +6,8 @@ namespace CZARBOT
     {
         private static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Unity.RegisterTypes();
+            Console.WriteLine("Hello, Discord!");
         }
     }
 }
