@@ -1,0 +1,16 @@
+﻿Definitions
+-----------
+ims - InMemoryStorage
+ids - IDataStorage
+mp  - MyProfile
+T   - object name, placeholder	
+
+Current Features
+----------------
+N/A
+
+
+Planned Features
+----------------
+Birthday Tracker
+Image Search
